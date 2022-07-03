@@ -1,1 +1,1 @@
-# Algoritmo-Parelelo
+# Algoritmo-Paralelo
